@@ -15,7 +15,7 @@ Every day SafeGuard receives hundreds of claim forms as PDFs — auto accidents,
 - [Project Overview](#-project-overview)
 - [Business Problem](#-business-problem)
 - [Solution Architecture](#-solution-architecture)
-- [Solution Architecture](#-solution-architecture)
+- [Architecture](#-architecture)
 - [Tech Stack](#-tech-stack)
 - [Dataset](#-dataset)
 - [Pipeline Walkthrough](#-pipeline-walkthrough)
@@ -60,7 +60,7 @@ PDF arrives → Adjuster manually opens it → Reads it → Types data into Exce
 
 ---
 
-## 🏗️ Solution Architecture
+## 🏗️ Architecture
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │                    SOURCE — PDF Claim Forms                     │
