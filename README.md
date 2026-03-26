@@ -128,3 +128,8 @@ PDF arrives → Adjuster manually opens it → Reads it → Types data into Exce
 | **Language** | Python (PySpark) + SQL | Pipeline code |
 
 ---
+
+## 🔄 Pipeline Walkthrough
+
+### Step 1 — Setup_IDP notebook [notebook](setup_IDP.ipynb)
+### Step 2 — invoce_ai_document_parser notebook [notebook](invoice_ai_document_parser.ipynb)
