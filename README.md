@@ -22,7 +22,6 @@ Every day SafeGuard receives hundreds of claim forms as PDFs — auto accidents,
 - [Gold Table Schema](#-gold-table-schema)
 - [Validation Logic](#-validation-logic)
 - [Genie — Natural Language Analytics](#-genie--natural-language-analytics)
-- [Key Engineering Challenges Solved](#-key-engineering-challenges-solved)
 - [Project Structure](#-project-structure)
 - [Setup & How to Run](#-setup--how-to-run)
 - [Databricks Free Edition — Constraints & Workarounds](#-databricks-free-edition--constraints--workarounds)
