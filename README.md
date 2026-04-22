@@ -63,10 +63,8 @@ PDF arrives → Adjuster manually opens it → Reads it → Types data into Exce
 ## 🏗️ Architecture
 
 <img width="912" height="1952" alt="arhitecture_dia" src="https://github.com/user-attachments/assets/6ff60c48-b5da-4b4a-92b5-ba88ebbbfd43" />
+
 ```
-
-
-
 ┌─────────────────────────────────────────────────────────────────┐
 │                    SOURCE — PDF Claim Forms                     │
 │         Auto Accident  │  Health/Medical  │  Property Damage    │
